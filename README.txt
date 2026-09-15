@@ -409,3 +409,55 @@ tecnológico, no colores llamativos ni disruptivos"):
   paleta.
 - Sin cambios en el verde de WhatsApp, el rojo de YouTube ni la banda
   de cookies (colores de terceros / estándar de familia).
+
+────────────────────────────────────────────────────────────
+ADAPTACIÓN A TORRELODONESTECH MANTENIMIENTO INFORMÁTICO EMPRESAS
+TORRELODONES (repositorio clonado a partir de RetiroTech)
+────────────────────────────────────────────────────────────
+
+MARCA Y TEXTOS:
+- "RetiroTech" → "TorrelodonesTech" en cabecera, pie de página,
+  JSON-LD (name) y mensaje prellenado de WhatsApp ("¡Hola
+  TorrelodonesTech").
+- Title: "TorrelodonesTech Mantenimiento Informático Empresas
+  Torrelodones" (texto exacto indicado por el cliente, sin "|"). Meta
+  description, og:title y og:description reescritos mencionando
+  Torrelodones, Madrid.
+- H1 propio de 9 palabras exactas, distinto de los de los repos
+  hermanos: "Optimizamos los sistemas de tu empresa día a día."
+- Fila "Zona": "Retiro, Madrid" → "Torrelodones, Madrid".
+- FAQ "¿Trabajáis solo en Retiro?" → "¿Trabajáis solo en
+  Torrelodones?", con la respuesta adaptada a "Torrelodones y
+  alrededores" (municipio propio, no distrito de la capital, mismo
+  criterio que Majahonda/Las Rozas/Collado Villalba).
+- Tarjeta de información de contacto: el h2 actualizado al título
+  exacto de esta web: "TorrelodonesTech Mantenimiento Informático
+  Empresas Torrelodones" (se corrigió aparte, ya que el rebranding
+  automático solo cambiaba el nombre de marca y dejaba "| Mantenimiento
+  Informático en Retiro" sin tocar).
+- JSON-LD: description y areaServed actualizados a Torrelodones,
+  Madrid.
+
+DOMINIO Y ENLACES:
+- canonical, og:url y JSON-LD "url" → https://mantenimientoinformaticolastorrelodones.es/
+  (dominio indicado directamente por el cliente, con https en vez del
+  http:// que se pasó; coincide con el nombre del repositorio).
+- sitemap.xml y robots.txt actualizados al nuevo dominio.
+- Enlace de Google Maps actualizado en las 4 ubicaciones del sitio a
+  https://maps.app.goo.gl/y8YBfzyPRKtkotbY6, proporcionado por el
+  cliente.
+
+TELÉFONO Y WHATSAPP: sin cambios, mismo número compartido por toda la
+familia.
+
+COLOR (regla permanente de la subfamilia — siempre se cambia):
+- Nueva paleta verde hierba vivo, distinta de las doce anteriores:
+  --blue:#5b5fa8→#257017, --indigo:#3d4f73→#184a0f,
+  --cyan:#8f93e0→#7ee066. Elegido deliberadamente con un matiz más
+  amarillo-verdoso que el verde de WhatsApp (#25D366) y bien separado
+  del esmeralda de VicalvaroTech y el oliva-lima de VillalbaTech, para
+  que las tres tonalidades verdes de la familia se distingan entre sí.
+- Todos los tonos derivados (fondos de iconos claros, textos en color
+  sobre fondo oscuro, badges, bordes de hover, sombras de botones)
+  recalculados a la misma paleta, mismo contraste que antes.
+- Isotipo (assets/isotipo.svg) recoloreado a juego.
